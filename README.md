@@ -4,7 +4,7 @@ Sex-positive Online World
 # Plan
 
 # Notes
-Phone App
+Phone App  
   Build homescreen
     Enter, logo, artwork, settings
 Merchandise
