@@ -1,9 +1,12 @@
-Zydavia: A True Escape
+# Zydavia: A True Escape
 
-What is Zydavia?
+<h5>What is Zydavia?</h5>
 Zydavia is an virtual Sex-Positive World, and so much more.
 What Zydavia is first though is a co-op. Zydavia was dreamed up by Mystique Watson with community in mind, and we intend to keep it that way. 
 Zydavia will be an open-source effort to create a world that kinksters, queers, LGBTQ+, and anyone else who desires a sexy, safe online experience can enjoy.
+
+However Zydavia is much more than that. When I, Kali, joined on in the creation of Zydavia, I suggested that rather than being profit oriented, Zydavia were cooperatively oriented. I suggested that Zydavia be at its core about its community and the broader community of the world. Not only does this mean that all profits belong to the Zydavian community, but it also goes down to the core of what Zydavia will be.
+
 
 
 
