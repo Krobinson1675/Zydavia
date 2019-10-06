@@ -7,6 +7,9 @@ Zydavia will be an open-source effort to create a world that kinksters, queers, 
 
 However Zydavia is much more than that. When I, Kali, joined on in the creation of Zydavia, I suggested that rather than being profit oriented, Zydavia were cooperatively oriented. I suggested that Zydavia be at its core about its community and the broader community of the world. Not only does this mean that all profits belong to the Zydavian community, but it also goes down to the core of what Zydavia will be.
 
+We aspire for Zydavia to become "A True Escape". An escape from the exploitative, work oriented, anti-sustainability, world of today. Instead we offer a united experience, across class, race, sexuality, or any other category that carries over into our lives.
+
+
 
 
 
